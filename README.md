@@ -1,2 +1,2 @@
-# workshop-git
-Test repository for Git workshops.
+# git-playground
+A playground repository for Git workshops.
